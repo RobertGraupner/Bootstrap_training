@@ -1,0 +1,36 @@
+.carousel-inner,
+.carousel-item {
+  height: 100vh;
+}
+
+.carousel-inner img,
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.contact {
+  background: #eff2f5;
+}
+
+footer {
+  background: #C5D0DB;
+}
+
+.carousel-caption {
+  left: 50%;
+  top: 50%;
+  right: auto;
+  bottom: auto;
+  transform: translate(-50%, -50%);
+}
+
+.sales h5 {
+  color: #fff;
+}
